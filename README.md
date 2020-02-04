@@ -10,9 +10,9 @@ AI is used to Building smart machines capable of performing tasks which typicall
 
 * ML is Subset of AI
 * We build a Model or an Engine and give to model with loads of data
-* Model will then find and learn patterns in the input data so we can give a new data and ask it if it is a cat or dog
-* It will tell us with a certain level of accuracy
-* The more input data we gave, the more accurate our model is going to be
+* Model will then find and learn patterns in the input data
+* It will then predict with a certain level of accuracy
+* The more input data we gave, the more accurate the model will be
 
 
 ## Applications
