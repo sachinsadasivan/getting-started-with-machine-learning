@@ -4,7 +4,7 @@ This is an Introioudctions to Machine Learning with a simple imaginary Shopping 
 
 ## Overview
 
-AI is used to Building smart machines capable of performing tasks which typically require human intelligence
+Artificial Intelligence (AI) is used to Building smart machines capable of performing tasks which typically require human intelligence
 
 ## Machine Learning
 
