@@ -1,0 +1,73 @@
+country,age,gender,style
+353,16,1,Bomber jackets
+353,18,1,Bomber jackets
+353,19,1,Bomber jackets
+353,20,1,Bomber jackets
+353,23,1,Casual
+353,25,1,Casual
+353,26,1,Dapper
+353,29,1,Dapper
+353,30,1,Dapper
+353,31,1,Sports Jacket
+353,33,1,Sports Jacket
+353,37,1,Sports Jacket
+353,15,0,Superstars 
+353,18,0,Superstars 
+353,20,0,Superstars 
+353,20,0,Superstars 
+353,21,0,Sophisticated
+353,25,0,Sophisticated
+353,26,0,Business Casual
+353,27,0,Business Casual
+353,30,0,Business Casual
+353,31,0,Formal Office Wear
+353,34,0,Formal Office Wear
+353,35,0,Formal Office Wear
+44,16,1,Streetwear
+44,18,1,Streetwear
+44,19,1,Streetwear
+44,20,1,Streetwear
+44,23,1,Casual
+44,25,1,Casual
+44,26,1,Modest
+44,29,1,Modest
+44,30,1,Modest
+44,31,1,Suite
+44,33,1,Suite
+44,37,1,Suite
+44,15,0,Colourful
+44,18,0,Colourful
+44,20,0,Colourful
+44,20,0,Colourful
+44,21,0,Sophisticated
+44,25,0,Sophisticated
+44,26,0,Business Casual
+44,27,0,Business Casual
+44,30,0,Business Casual
+44,31,0,Formal Office Wear
+44,34,0,Formal Office Wear
+44,35,0,Formal Office Wear
+1,16,1,Streetwear
+1,18,1,Streetwear
+1,19,1,Streetwear
+1,20,1,Streetwear
+1,23,1,Retro
+1,25,1,Retro
+1,26,1,The Professional
+1,29,1,The Professional
+1,30,1,The Professional
+1,31,1,Rake
+1,33,1,Rake
+1,37,1,Rake
+1,15,0,Skater skirts
+1,18,0,Skater skirts
+1,20,0,Skater skirts
+1,20,0,Skater skirts
+1,21,0,Sophisticated
+1,25,0,Sophisticated
+1,26,0,Evening Black Tie
+1,27,0,Evening Black Tie
+1,30,0,Evening Black Tie
+1,31,0,Geeky chic Style
+1,34,0,Geeky chic Style
+1,35,0,Geeky chic Style
